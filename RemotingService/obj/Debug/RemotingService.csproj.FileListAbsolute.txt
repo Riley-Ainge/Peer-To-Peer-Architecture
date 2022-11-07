@@ -1,0 +1,9 @@
+C:\Users\gameb\source\repos\Assignment2Part2\RemotingService\obj\Debug\RemotingService.csproj.AssemblyReference.cache
+C:\Users\gameb\source\repos\Assignment2Part2\RemotingService\obj\Debug\RemotingService.csproj.CoreCompileInputs.cache
+C:\Users\gameb\source\repos\Assignment2Part2\RemotingService\bin\Debug\RemotingService.dll
+C:\Users\gameb\source\repos\Assignment2Part2\RemotingService\bin\Debug\RemotingService.pdb
+C:\Users\gameb\source\repos\Assignment2Part2\RemotingService\bin\Debug\DataTypes.dll
+C:\Users\gameb\source\repos\Assignment2Part2\RemotingService\bin\Debug\DataTypes.pdb
+C:\Users\gameb\source\repos\Assignment2Part2\RemotingService\obj\Debug\RemotingService.csproj.CopyComplete
+C:\Users\gameb\source\repos\Assignment2Part2\RemotingService\obj\Debug\RemotingService.dll
+C:\Users\gameb\source\repos\Assignment2Part2\RemotingService\obj\Debug\RemotingService.pdb
